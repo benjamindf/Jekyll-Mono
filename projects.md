@@ -8,7 +8,7 @@ permalink: /projects/
 
 Fast GPU-driven Metaballs for Unity!
 
-Uses the state-of-the-art Parallel Marching blocks algorithm to produce an indexed mesh for thousands of metaballs on the GPU in realtime.
+Uses the state-of-the-art Parallel Marching blocks algorithm to produce an indexed mesh for thousands of metaballs on the GPU in real-time.
 Here are some lovely screenshots. Oooh!
 
 ![image-title-here](/images/metaballs01.png){:class="img-metaballs"}

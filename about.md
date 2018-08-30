@@ -5,13 +5,13 @@ permalink: /
 ---
 
 Hi, I'm Ben, and I like computers.
-I hasve a masters degree in computer science and experience working with a bunch of programming languages.
+I have a masters degree in computer science and experience working with a bunch of programming languages.
 I'm particularly interested in computer graphics. Check out the Projects page for more info on that.
 
 
 ## Education
 
-* First class Masters degree in Compute science from the University of Southampton
+* First class Masters degree in Computer science from the University of Southampton
 
 ## Roles
 
@@ -20,7 +20,7 @@ I'm particularly interested in computer graphics. Check out the Projects page fo
 ## Skills
 
 * Javascript - Experience with raw JS scripting for QML.
-* C# - Experience with C# 6 for Unity3D.
+* C# - Experience with C# for Unity3D.
 * C++ - Mostly for graphics programming, inc. software renderer
 * HLSL/GLSL - Shader programming for graphics, including Parallel marching blocks implementation for dynamic Metaball meshing
 * Haskell - Dabbling
